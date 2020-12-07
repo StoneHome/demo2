@@ -8,4 +8,8 @@ public class Hello {
 	public void test2() {
 		
 	}
+
+	public void test3() {
+		
+	}
 }
